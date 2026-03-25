@@ -1,0 +1,6 @@
+*.csv
+*.pbix
+*.xlsx
+data/
+dashboard/
+.ipynb_checkpoints/
