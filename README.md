@@ -61,11 +61,9 @@ Note: Dataset files are large, so they are not uploaded to GitHub.
 
 ## Dashboard Preview
 
-(Add screenshots in images folder)
 
 ![Dashboard](images/dashboard.png)
-![Skills Chart](images/skills_chart.png)
-![Job Trends](images/job_trend.png)
+![Job Trends](images/job_trends.png)
 
 ---
 
